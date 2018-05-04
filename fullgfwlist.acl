@@ -30,6 +30,7 @@
 (^|\.)fra53\.r\.cloudfront\.net$
 (^|\.)textnow\.me$
 (^|\.)\w*bitfinex\w*\.\w*$
+(^|\.)\w*inoreader\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
