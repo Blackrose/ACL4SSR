@@ -34,6 +34,7 @@
 (^|\.)textnow\.me$
 (^|\.)\w*bitfinex\w*\.\w*$
 (^|\.)\w*inoreader\w*\.\w*$
+(^|\.)t\.co$
 
 #GFWList IP start
 85.17.73.31
